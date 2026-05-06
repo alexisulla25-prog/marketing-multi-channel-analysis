@@ -52,7 +52,7 @@ FROM tiktok_ads;
 
 ## 📊 Dashboard Overview
 
-marketing-multi-channel-analysis/Screenshot 2026-05-06 161343.png
+![Dashboard](images/dashboard_overview.png)
 The dashboard provides a one-page overview of marketing performance across all channels.
 
 ---
