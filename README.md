@@ -53,7 +53,6 @@ FROM tiktok_ads;
 ## 📊 Dashboard Overview
 
 marketing-multi-channel-analysis/Screenshot 2026-05-06 161343.png
-
 The dashboard provides a one-page overview of marketing performance across all channels.
 
 ---
@@ -106,7 +105,7 @@ The dashboard provides a one-page overview of marketing performance across all c
 
 ## ▶️ How to Use
 
-1. Download the `.pbix` file from the `/dashboard` folder
+1. Download the `.pbix` file from the `marketing-multi-channel-analysis` folder
 2. Open it using Power BI Desktop
 3. Refresh data if needed
 
