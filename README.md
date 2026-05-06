@@ -1,6 +1,3 @@
-# marketing-multi-channel-analysis
-Marketing performance dashboard using Facebook, Google Ads and TikTok data
-
 # 📊 Multi-Channel Marketing Performance Analysis
 
 ## 🧠 Business Context
@@ -55,7 +52,7 @@ FROM tiktok_ads;
 
 ## 📊 Dashboard Overview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](Screenshot 2026-05-06 161343.png)
 
 The dashboard provides a one-page overview of marketing performance across all channels.
 
