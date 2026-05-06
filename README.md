@@ -52,7 +52,7 @@ FROM tiktok_ads;
 
 ## 📊 Dashboard Overview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 The dashboard provides a one-page overview of marketing performance across all channels.
 
 ---
